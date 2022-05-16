@@ -1,0 +1,2 @@
+# MediaPipe-basic-tutorial
+ 
